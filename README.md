@@ -1,7 +1,8 @@
 
 # Kerbal Space Program Craft Files
 
-https://github.com/edlund/ksp-craftfiles
+Origin: https://bitbucket.org/erikedlund/ksp-craftfiles
+Mirror: https://github.com/edlund/ksp-craftfiles
 
 Stored here are a few of the more successful craft designs that I have
 created for KSP 1.0+. They require MechJeb2 but are otherwise stock.
