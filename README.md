@@ -15,6 +15,9 @@ Have fun and fly safe!
    the KSC for reference flag planting duty and other boring tasks.
  * `VAB/Diskovery+Lifter-II.craft`: My first successful Space Shuttle
    clone. It actually flies pretty well.
+ * `VAB/Kolumbia.craft`: An updated version of the Diskovery Space
+   shuttle. It uses the new Vector engine and has jet engines to allow
+   it to fly back to KSC after a poorly guesstimated reentry.
  * `VAB/Kolossal-IV.craft`: A huge SSTO rocket, useful for refueling
    missions. Remember to deploy the airbrakes before reentering.
  * `VAB/Komodo-III.craft`: A simple SSTO space taxi, decouple the orbiter
